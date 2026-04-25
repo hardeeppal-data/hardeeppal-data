@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Hardeep
 
-<!--
-**hardeeppal-data/hardeeppal-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data & Operations professional with 5+ years experience in 
+data management, reporting, and operational analysis.
 
-Here are some ideas to get you started:
+## Skills
+Excel · Power Query · SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+- [SQL Data Portfolio](https://github.com/hardeeppal-data/operational-data-sql-project)
+- [Excel Operations Dashboard](https://github.com/hardeeppal-data/excel-operations-dashboard)
+
+## Certificates
+- HackerRank SQL Basic — [View Certificate](https://www.hackerrank.com/certificates/ae3e49213945)
