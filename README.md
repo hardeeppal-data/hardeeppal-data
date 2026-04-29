@@ -12,3 +12,4 @@ Excel · Power Query · SQL
 
 ## Certificates
 - HackerRank SQL Basic — [View Certificate](https://www.hackerrank.com/certificates/ae3e49213945)
+- HackerRank SQL Intermediate — [View Certificate](https://www.hackerrank.com/certificates/54e06383f44f)
