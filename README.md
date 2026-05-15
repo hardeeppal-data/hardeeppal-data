@@ -12,5 +12,6 @@ Excel · Power Query · SQL
 - [PowerBI Portfolio](https://github.com/hardeeppal-data/powerbi-arrears-dashboard)
 
 ## Certificates
+- SQL Advanced — [View Certificate](https://www.hackerrank.com/certificates/579f2e745cb9)
 - SQL Intermediate — [View Certificate](https://www.hackerrank.com/certificates/54e06383f44f)
 - SQL Basic — [View Certificate](https://www.hackerrank.com/certificates/ae3e49213945)
